@@ -11,7 +11,8 @@ const REGIONS = [
     { code: "IO", ref: "Ionia" },
     { code: "NX", ref: "Noxus" },
     { code: "PZ", ref: "PiltoverZaun" },
-    { code: "SI", ref: "ShadowIsles" }
+    { code: "SI", ref: "ShadowIsles" },
+    { code: "BW", ref: "Bilgewater" }
 ]
 
 function getCards(count, stream, raw = false) {
