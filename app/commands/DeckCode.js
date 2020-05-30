@@ -30,7 +30,8 @@ const REGION_ICONS = {
     "Noxus": "<:noxus:634975308398723072>",
     "Ionia": "<:ionia:634975286680616990>",
     "Freljord": "<:freljord:634975264144621588>",
-    "Demacia": "<:demacia:634975236949016598>"
+    "Demacia": "<:demacia:634975236949016598>",
+    "Bilgewater": "<:bilgewater:716194321245798442>"
 }
 
 function format(deck) {

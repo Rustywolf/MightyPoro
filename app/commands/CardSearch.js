@@ -20,7 +20,8 @@ const REGION_COLOURS = {
     "Demacia": "#d9dbcd",
     "Piltover & Zaun": "#b78354",
     "Ionia": "#b96683",
-    "Shadow Isles": "#55ccae"
+    "Shadow Isles": "#55ccae",
+    "Bilgewater": "#893423"
 };
 
 const RARITY_COLOURS = {
